@@ -36,4 +36,3 @@ The project consists of three files:
 1. Clone or download the project files.
 2. Compile the code using a C++ compiler:
    ```bash
-   g++ -o TextBox main.cpp TextBox.cpp
