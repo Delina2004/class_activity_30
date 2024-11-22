@@ -34,5 +34,4 @@ The project consists of three files:
 ## Usage
 
 1. Clone or download the project files.
-2. Compile the code using a C++ compiler:
-   ```bash
+2. Compile the code using a C++ compiler
